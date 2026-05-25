@@ -1,0 +1,6 @@
+pandas
+yfinance
+twstock
+mplfinance
+matplotlib
+requests
