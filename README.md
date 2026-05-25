@@ -1,4 +1,4 @@
-# 📈 TWStock Hunter (台股終極選股神器)
+# 📈 TWStock Quote
 
 這是一個基於 Python 與 Tkinter 開發的台股技術分析與自動篩選工具。
 透過整合 `yfinance` 與 `twstock`，提供多執行緒的即時盤後數據下載，並支援自訂高彈性的技術指標過濾條件，幫助投資人快速找出符合個人交易邏輯的標的。
